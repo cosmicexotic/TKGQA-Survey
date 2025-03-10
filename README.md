@@ -87,7 +87,7 @@ A longer version is coming...
 | Date       | Title                                                        | Organization                              | Code                                          |
 | ---------- | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- |
 | 2024/04/02 | [Self-Improvement Programming for Temporal Knowledge Graph Question Answering]() | Institute of Computing Technology         |                                               |
-| 2023/11/15 | [Temporal Knowledge Question Answering via Abstract Reasoning Induction](https://aclanthology.org/2024.acl-long.267.pdf) | National University of Defense Technology | [Code](https: //github.com/czy1999/ARI-QA)    |
+| 2023/11/15 | [Temporal Knowledge Question Answering via Abstract Reasoning Induction](https://aclanthology.org/2024.acl-long.267.pdf) | National University of Defense Technology | [Code](https://github.com/czy1999/ARI-QA)    |
 | 2023/10/20 | [Question Answering as Programming for Solving Time-Sensitive Questions]() | Tsinghua University                       | [Code](https://github.com/TianHongZXY/qaap)   |
 | 2024/07/24 | [Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models](https://arxiv.org/abs/2402.16568) | National University of Defense Technology |                                               |
 | 2024/02/23 | [Faithful Temporal Question Answering over Heterogeneous Sources](https://arxiv.org/abs/2402.15400) | Southwest Jiaotong University             | [Code](https://github.com/zhenjia2017/FAITH)  |
