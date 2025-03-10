@@ -61,13 +61,35 @@ A longer version is coming...
 
 ### 🔗 TKG embedding-based methods
 
-| Date | Title | Organization | Code |
-| ---- | ----- | ------------ | ---- |
+| Date       | Title                                                        | Organization                                     | Code                                            |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
+| 2021/06/03 | [Question Answering Over Temporal Knowledge Graphs](https://arxiv.org/abs/2106.01515) | Indian Institute of Science Bangalore            | [Code](https://github.com/apoorvumang/CronKGQA) |
+| 2022/09/18 | [Complex Temporal Question Answering on Knowledge Graphs](https://arxiv.org/abs/2109.08935) | Southwest Jiaotong University                    | [Code](https://exaqt.mpi-inf.mpg.de/)           |
+| 2022/06/28 | [TempoQR: Temporal Question Reasoning over Knowledge Graphs]() | University of Minnesota                          | [Code](https://github.com/cmavro/TempoQR)       |
+| 2022/03/01 | [Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs](https://arxiv.org/abs/2203.00255) | JD AI Research                                   |                                                 |
+| 2023/04/01 | [An improving reasoning network for complex question answering over temporal knowledge graphs](https://link.springer.com/article/10.1007/s10489-022-03913-6) | Shandong Jiaotong University                     |                                                 |
+| 2022/09/05 | [Temporal knowledge graph question answering via subgraph reasoning](https://dl.acm.org/doi/10.1016/j.knosys.2022.109134) | National University of Defense Technology        | [Code](https://github.com/czy1999/SubGTR)       |
+| 2023/      | [TwiRGCN: Temporally Weighted Graph Convolution for Question Answering over Temporal Knowledge Graphs]() | IISc, Bangalore                                  |                                                 |
+| 2022/11/24 | [Modeling Temporal-Sensitive Information for Complex Question Answering over Knowledge Graphs]() | Wuhan University School of Computer Science      |                                                 |
+| 2023/06    | [Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering ](https://arxiv.org/abs/2302.12529) | Tsinghua University                              |                                                 |
+| 2023/07/01 | [Multi-granularity Temporal Question Answering over Knowledge Graphs](https://aclanthology.org/2023.acl-long.637.pdf) | National University of Defense Technology        | [Code](https://github.com/czy1999/MultiTQ)      |
+| 2023       | [Local and Global: Temporal Question Answering via Information Fusion](https://www.ijcai.org/proceedings/2023/571) | Jilin University                                 |                                                 |
+| 2024/01/04 | [JOINT MULTI-FACTS REASONING NETWORK FOR COMPLEX TEMPORAL QUESTION ANSWERING OVER KNOWLEDGE GRAPH](https://arxiv.org/abs/2401.02212) | Huazhong University of Science and Technology    |                                                 |
+| 2024/02/02 | [Semantic-enhanced reasoning question answering over temporal knowledge graphs](https://link.springer.com/article/10.1007/s10844-024-00840-5) | Xi’an University of Posts and Telecommunications |                                                 |
+| 2024/02/20 | [Question Calibration and Multi-Hop Modeling for Temporal Question Answering](https://arxiv.org/abs/2402.13188) | Beihang University, Beijing                      |                                                 |
+| 2024/03/18 | [M 3 TQA: MULTI-VIEW, MULTI-HOP AND MULTI-STAGE REASONING FOR TEMPORAL QUESTION ANSWERING]() | Renmin University of China                       |                                                 |
+| 2024/08/01 | [MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning](https://aclanthology.org/2024.findings-acl.696.pdf) | Soochow University                               |                                                 |
 
 
 
 ### 🤖 LLM-based methods
 
-| Date | Title | Organization | Code |
-| ---- | ----- | ------------ | ---- |
+| Date       | Title                                                        | Organization                              | Code                                          |
+| ---------- | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- |
+| 2024/04/02 | [Self-Improvement Programming for Temporal Knowledge Graph Question Answering]() | Institute of Computing Technology         |                                               |
+| 2023/11/15 | [Temporal Knowledge Question Answering via Abstract Reasoning Induction](https://aclanthology.org/2024.acl-long.267.pdf) | National University of Defense Technology | [Code](https: //github.com/czy1999/ARI-QA)    |
+| 2023/10/20 | [Question Answering as Programming for Solving Time-Sensitive Questions]() | Tsinghua University                       | [Code](https://github.com/TianHongZXY/qaap)   |
+| 2024/07/24 | [Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models](https://arxiv.org/abs/2402.16568) | National University of Defense Technology |                                               |
+| 2024/02/23 | [Faithful Temporal Question Answering over Heterogeneous Sources](https://arxiv.org/abs/2402.15400) | Southwest Jiaotong University             | [Code](https://github.com/zhenjia2017/FAITH)  |
+| 2024       | [TimeR4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering](https://aclanthology.org/2024.emnlp-main.394.pdf) | Nankai University                         | [Code](https://github.com/qianxinying/TimeR4) |
 
