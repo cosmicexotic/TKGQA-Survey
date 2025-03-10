@@ -14,9 +14,9 @@ knowledge graph (green box)</b></p>
 A longer version is coming...
 
 ---
-A curated list of resources dedicated to temporal knowledge graph question answering (TKGQA).
+🌟 A curated list of resources dedicated to temporal knowledge graph question answering (TKGQA).
 
-## Benchmarks for TKGQA
+## 📊 Benchmarks for TKGQA
 
 - The *Organization* column only records the organization of the first author.
 
