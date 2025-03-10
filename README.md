@@ -16,6 +16,15 @@ A longer version is coming...
 ---
 🌟 A curated list of resources dedicated to temporal knowledge graph question answering (TKGQA).
 
+## Table of Content
+
+- [🏆 Benchmarks for TKGQA](#-benchmarks-for-tkgqa)
+
+- [📈 Systems for TKGQA](#-systems-for-tkgqa)
+  - [Semantic Parsing-based methods](#)
+  - [TKG embedding-based methods](#)
+  - [LLM-based methods](#)
+
 ## 📊 Benchmarks for TKGQA
 
 - The *Organization* column only records the organization of the first author.
@@ -37,4 +46,27 @@ A longer version is coming...
 ## 📈 Systems for TKGQA
 
 - The *Organization* column only records the organization of the first author.
+
+### 🧩 Semantic Parsing-based methods
+
+| Date       | Title                                                        | Organization                  | Code                                           |
+| ---------- | ------------------------------------------------------------ | ----------------------------- | ---------------------------------------------- |
+| 2018/10/17 | [TEQUILA: Temporal Question Answering over Knowledge Bases](https://arxiv.org/abs/1908.03650) | Southwest Jiaotong University | [Code](https://github.com/zhenjia2017/TEQUILA) |
+| 2021/09/27 | [SYGMA: System for Generalizable Modular Question Answering Over Knowledge Bases](https://aclanthology.org/2022.findings-emnlp.284/) | IBM Research                  |                                                |
+| 2022       | [Complex Question Answering Over Temporal Knowledge Graphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_6) | Guangzhou University          |                                                |
+| 2023/12/01 | [Best of Both Worlds: Towards Improving Temporal Knowledge Base Question Answering via Targeted Fact Extraction](https://aclanthology.org/2023.emnlp-main.287/) | IBM Research, India           |                                                |
+
+
+
+### 🔗 TKG embedding-based methods
+
+| Date | Title | Organization | Code |
+| ---- | ----- | ------------ | ---- |
+
+
+
+### 🤖 LLM-based methods
+
+| Date | Title | Organization | Code |
+| ---- | ----- | ------------ | ---- |
 
