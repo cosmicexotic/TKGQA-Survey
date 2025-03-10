@@ -11,6 +11,7 @@ knowledge graph (green box)</b></p>
 </div>
 
 **Paper link:** https://arxiv.org/abs/2406.14191
+
 A longer version is coming...
 
 ---
@@ -21,9 +22,9 @@ A longer version is coming...
 - [🏆 Benchmarks for TKGQA](#-benchmarks-for-tkgqa)
 
 - [📈 Systems for TKGQA](#-systems-for-tkgqa)
-  - [Semantic Parsing-based methods](#)
-  - [TKG embedding-based methods](#)
-  - [LLM-based methods](#)
+  - [🧩 Semantic Parsing-based methods](#-semantic-parsing-based-methods)
+  - [🔗 TKG embedding-based methods](#-tkg-embedding-based-methods)
+  - [🤖 LLM-based methods](#-llm-based-methods)
 
 ## 📊 Benchmarks for TKGQA
 
